@@ -729,3 +729,21 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate
 2024-12-04 06:14:48,116 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-04 06:14:48,123 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-04 06:14:48,125 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Spring-Data-JPA\02SpringBootDataJpaEx-2\src\test\resources
+2024-12-04 06:43:50,851 [Worker-75: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PracticeJPA:0.0.1-SNAPSHOT @ C:\Spring-Data-JPA\PracticeJPA\pom.xml.
+2024-12-04 06:43:51,279 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeJPA/src/main/java
+2024-12-04 06:43:51,279 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/main/resources
+2024-12-04 06:43:51,281 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/main/resources
+2024-12-04 06:43:51,284 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeJPA/src/test/java
+2024-12-04 06:43:51,284 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/test/resources
+2024-12-04 06:43:51,447 [Worker-75: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-12-04 06:43:51,449 [Worker-75: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-04 06:43:51,675 [Worker-75: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PracticeJPA:0.0.1-SNAPSHOT @ C:\Spring-Data-JPA\PracticeJPA\pom.xml.
+2024-12-04 06:43:51,951 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeJPA/src/main/java
+2024-12-04 06:43:51,951 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/main/resources
+2024-12-04 06:43:51,951 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/main/resources
+2024-12-04 06:43:51,952 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeJPA/src/test/java
+2024-12-04 06:43:51,952 [Worker-75: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticeJPA/src/test/resources
+2024-12-04 06:43:52,326 [Worker-75: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-04 06:43:52,651 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-04 06:43:52,676 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-04 06:43:52,681 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Spring-Data-JPA\PracticeJPA\src\test\resources
