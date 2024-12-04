@@ -1,0 +1,16 @@
+package com.app.shivam.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Data
+@Entity
+@Table(name="product-tab")
+public class Product {
+	
+	private Integer prodId;
+	private String prodName;
+	private Double prodCost;
+
+}

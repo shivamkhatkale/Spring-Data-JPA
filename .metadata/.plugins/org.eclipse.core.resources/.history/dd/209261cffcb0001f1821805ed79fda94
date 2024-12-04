@@ -1,0 +1,10 @@
+package com.example.demo;
+
+@Data
+public class Student {
+
+	private Integer stdId;
+	private String stdName;
+	private Double stdFee;
+	
+}

@@ -1,0 +1,18 @@
+package com.example.demo;
+
+
+@Data
+@Entity
+@Table(name="student_tab")
+public class Student {
+
+	
+	@Id
+	@Column(name="sid")
+	private Integer stdId;
+
+	@Column(name="sname")
+	private String stdName;
+	private Double stdFee;
+	
+}
