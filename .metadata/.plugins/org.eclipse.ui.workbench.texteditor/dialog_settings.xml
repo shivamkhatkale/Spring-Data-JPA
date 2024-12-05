@@ -5,4 +5,8 @@
 	<list key="searchhistory">
 		<item value="63"/>
 	</list>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="567"/>
+		<item key="DIALOG_Y_ORIGIN" value="308"/>
+	</section>
 </section>

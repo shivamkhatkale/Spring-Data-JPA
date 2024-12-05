@@ -1,7 +1,0 @@
-package com.app.shivam.repo;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface ProductRepository extends CrudRepository<T, ID> {
-
-}
